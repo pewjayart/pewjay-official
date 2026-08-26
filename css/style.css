@@ -719,6 +719,14 @@ button {
     animation-delay: 0.33s;
 }
 
+.mobile-menu.active a:nth-child(9) {
+    animation-delay: 0.37s;
+}
+
+.mobile-menu.active a:nth-child(10) {
+    animation-delay: 0.41s;
+}
+
 
 /* =========================================================
    ANIMATION
